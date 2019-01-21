@@ -1,1 +1,0 @@
-# trakyakopya2
