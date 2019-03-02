@@ -11,7 +11,7 @@ dependencies:
   ffmpeg-binaries: 4.0.0
   gitinfo: 2.2.0
   jimp: 0.6.0
-  moment: 2.23.0
+  moment: 2.24.0
   moment-duration-format: 2.2.2
   node-google-translate-skidz: 1.1.2
   node-opus: 0.3.1
@@ -1443,10 +1443,10 @@ packages:
     dev: false
     resolution:
       integrity: sha1-uVdhLeJgFsmtnrYIfAVFc+USd3k=
-  /moment/2.23.0:
+  /moment/2.24.0:
     dev: false
     resolution:
-      integrity: sha512-3IE39bHVqFbWWaPOMHZF98Q9c3LDKGTmypMiTM2QygGXXElkFWIH7GxfmlwmY2vwa+wmNsoYZmG2iusf1ZjJoA==
+      integrity: sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
   /ms/2.0.0:
     dev: false
     resolution:
@@ -2329,7 +2329,7 @@ specifiers:
   ffmpeg-binaries: ^4.0.0
   gitinfo: ^2.2.0
   jimp: ^0.6.0
-  moment: ^2.23.0
+  moment: ^2.24.0
   moment-duration-format: ^2.2.2
   node-google-translate-skidz: ^1.1.2
   node-opus: ^0.3.1

@@ -28,7 +28,7 @@ const client = new Discord.Client()
 client.ayarlar = {
 
 	prefix: "$", // Ön-ek
-	token: "NTM2MTgwMDA1MDMwNTkyNTEz.Dycxag.ohd7Mlc8CJeMCgRv7FKF9FX6JVA",
+	token: "NTM2MTgwMDA1MDMwNTkyNTEz.D1vDQQ.pNCYa2ot2s6fQ4dXcGvNYr5Y7XQ",
 	klasor: "komutlar", // Komutların bulunduğu klasörün ismi
 	renk: "#FF0000", // Embed rengi (HTML kodu veya RANDOM yazılabilir.)
 	destek: "https://discord.gg/CX9dMwG", // Discord destek sunucunuz
